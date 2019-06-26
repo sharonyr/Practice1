@@ -1,9 +1,6 @@
 # Practice1
 
-is it saved.
+I don't like these comments so i'm going to write my own
 
-# i also added some stuff
-
-
-going to upload
+abcdefghijklmnopqrstuvwxyz!
 
